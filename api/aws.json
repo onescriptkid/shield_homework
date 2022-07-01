@@ -1,0 +1,4 @@
+{
+"db": "postgres://shieldAdmin:b0fadd5a0cc6@drones.cen4uhryq8bc.us-east-1.rds.amazonaws.com:5432/drones",
+"db2":"postgres://shield:changeme@localhost:5432/drones"
+}

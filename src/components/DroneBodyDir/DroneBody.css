@@ -1,0 +1,16 @@
+.DroneHeader {
+  text-align: left;
+  
+}
+
+.row {
+  padding: 0.5rem 0 0.5rem 0
+}
+
+.suir-calendar .date {
+  cursor: pointer !important;
+}
+
+.suir-calendar .cell {
+  cursor: pointer !important;
+}
